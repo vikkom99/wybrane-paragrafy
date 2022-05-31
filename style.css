@@ -1,0 +1,16 @@
+div {
+    height: 100px;
+    width: 100px;
+}
+
+p {
+    background-color: red;
+}
+
+.nieb {
+    background-color: blue;
+}
+
+.przez {
+    opacity: 0.5;
+}
